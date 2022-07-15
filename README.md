@@ -16,15 +16,6 @@
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-
-<br>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/PremierePro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"/>
-<img src="https://img.shields.io/badge/AfterEffects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/MIDI-000000?style=for-the-badge&logo=MIDI&logoColor=white"/>
-<br>
-
-
 </div>
 
 <br>
