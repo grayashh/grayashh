@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PIKACHU&fontColor=FAD61D&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PIKACHU&fontColor=FAD61D&fontSize=70&animation=twinkling)
   
 
 <div align="center">
