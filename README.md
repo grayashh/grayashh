@@ -19,3 +19,6 @@
 
 <br>
 <br>
+
+![grayashh's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayashh&count_private=true&show_icons=true&theme=synthwave)  
+![Grayashh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grayashh&theme=synthwave)
