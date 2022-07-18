@@ -19,6 +19,3 @@
 
 <br>
 <br>
-
-![grayashh's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayashh&count_private=true&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=30&bg_color=000000)  
-![Grayashh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grayashh&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=30&hide_border=true&bg_color=000000)
