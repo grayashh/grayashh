@@ -1,0 +1,39 @@
+import React from 'react';
+import { Box, Text } from 'ink';
+import Gradient from 'ink-gradient';
+import BigText from 'ink-big-text';
+
+export default function App() {
+  return (
+    <>
+      <Gradient name="instagram">
+        <BigText text="Grayash" align="center" />
+      </Gradient>
+      <Box borderStyle="single" padding={2} flexDirection="column" alignItems="center">
+        <Text color={'magenta'}>Hello, </Text>
+        <Text color={'magentaBright'}>I'm </Text>
+        <Text bold={true} color={'white'} backgroundColor={'magenta'}>
+          Grayash
+        </Text>
+        <Box marginBottom={1} flexDirection={'column'}>
+          <Text color={'grey'}>Front-End Engineer</Text>
+          <Text color={'grey'}>React, React Native, Next.js, TypeScript</Text>
+        </Box>
+        <Box flexDirection="column" marginBottom={1} alignItems="center">
+          <Text>
+            <Text backgroundColor={'whiteBright'} color={'black'} underline={false}>
+              GitHub
+            </Text>
+            <Text underline={true}> https://github.com/grayashh</Text>
+          </Text>
+          <Text>
+            <Text backgroundColor={'whiteBright'} color={'black'} underline={false}>
+              Homepage
+            </Text>
+            <Text underline={true}> https://grayash.vercel.app</Text>
+          </Text>
+        </Box>
+      </Box>
+    </>
+  );
+}
