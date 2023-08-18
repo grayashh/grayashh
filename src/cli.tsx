@@ -8,11 +8,25 @@ const cli = meow(
   `
 	Usage
 	  $ grayash
+
+	Options
+		--name  Your name
+
+	Examples
+	  $ grayash --name=김태강
     ...
 `,
   {
     importMeta: import.meta,
+    flags: {
+      name: {
+        type: 'string',
+      },
+      member: {
+        type: 'string',
+      },
+    },
   }
 );
 
-render(<App />);
+render(<App name={cli.flags.name} />);
