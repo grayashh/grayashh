@@ -1,11 +1,11 @@
 {
   "name": "grayash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
-    "ausg": "dist/cli.js"
+    "grayash": "dist/cli.js"
   },
   "engines": {
     "node": ">=16"
