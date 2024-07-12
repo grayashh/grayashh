@@ -19,7 +19,7 @@ export default function App({ name }: { name: string }) {
         </Box>
         <Box marginBottom={1} flexDirection="column" alignItems="center">
           <Text color="grey">Front-End Engineer</Text>
-          <Text color="grey">React, React Native, Next.js, TypeScript</Text>
+          <Text color="grey">TypeScript, React, React Native, Next.js</Text>
         </Box>
         <Box flexDirection="column" marginBottom={1} alignItems="center">
           <Text>
@@ -32,7 +32,7 @@ export default function App({ name }: { name: string }) {
             <Text backgroundColor="whiteBright" color="black" underline={false}>
               Homepage
             </Text>
-            <Text underline={true}> https://grayash.vercel.app</Text>
+            <Text underline={true}> https://grayash.tech</Text>
           </Text>
         </Box>
       </Box>
