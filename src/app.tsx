@@ -11,15 +11,21 @@ export default function App({ name }: { name: string }) {
       </Gradient>
       <Box borderStyle="single" padding={2} flexDirection="column" alignItems="center">
         <Box marginBottom={1} alignItems="center">
-          <Text color={'magenta'}>Hello, {name} </Text>
-          <Text color={'magentaBright'}>I'm </Text>
-          <Text bold={true} color={'white'} backgroundColor={'magenta'}>
+          <Text color="cyan">Hello, {name} </Text>
+          <Text color="cyan">I'm </Text>
+          <Text bold color="white" backgroundColor="cyan">
             Grayash
           </Text>
         </Box>
         <Box marginBottom={1} flexDirection="column" alignItems="center">
-          <Text color="grey">Front-End Engineer</Text>
-          <Text color="grey">TypeScript, React, React Native, Next.js</Text>
+          <Text>
+            <Text color="magentaBright">[UMOH]</Text>
+            <Text color="magenta"> Frontend Developer at Splab</Text>
+          </Text>
+          <Text>
+            <Text color="redBright">[AUSG]</Text>
+            <Text color="red"> 7th Member & 8th Co-Organizer</Text>
+          </Text>
         </Box>
         <Box flexDirection="column" marginBottom={1} alignItems="center">
           <Text>
@@ -32,7 +38,7 @@ export default function App({ name }: { name: string }) {
             <Text backgroundColor="whiteBright" color="black" underline={false}>
               Homepage
             </Text>
-            <Text underline={true}> https://grayash.tech</Text>
+            <Text underline={true}> https://www.grayash.engineer</Text>
           </Text>
         </Box>
       </Box>
