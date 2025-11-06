@@ -20,7 +20,7 @@ export default function App({ name }: { name: string }) {
         <Box marginBottom={1} flexDirection="column" alignItems="center">
           <Text>
             <Text color="magentaBright">[UMOH]</Text>
-            <Text color="magenta"> Frontend Developer at Splab</Text>
+            <Text color="magenta"> Founding Engineer at Splab</Text>
           </Text>
           <Text>
             <Text color="redBright">[AUSG]</Text>
@@ -33,12 +33,6 @@ export default function App({ name }: { name: string }) {
               GitHub
             </Text>
             <Text underline={true}> https://github.com/grayashh</Text>
-          </Text>
-          <Text>
-            <Text backgroundColor="whiteBright" color="black" underline={false}>
-              Homepage
-            </Text>
-            <Text underline={true}> https://www.grayash.engineer</Text>
           </Text>
         </Box>
       </Box>
